@@ -1,0 +1,1 @@
+# bulk_akamaitlc_to_akamaicdn
