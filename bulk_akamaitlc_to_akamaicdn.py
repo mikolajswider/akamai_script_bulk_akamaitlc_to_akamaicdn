@@ -28,8 +28,8 @@ Before using this script, make sure that:\n
  b) The switchkey parameter associated with the customer's account has been copied to the switchkey_ref.txt file.\n
 \n
 Contributors:\n
-- Kasia (kszmyd@akamai.com) as Chief Ideator\n
-- Miko (mswider@akamai.com) as Chief Programmer\n
+- Kasia (kszmyd) as Chief Ideator\n
+- Miko (mswider) as Chief Programmer\n
 \n bulk_akamaitlc_to_akamaicdn v1.0
 """
 
